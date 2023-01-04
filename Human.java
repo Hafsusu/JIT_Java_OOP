@@ -69,3 +69,5 @@ public class Male extends Human{
 	}
 
 }
+//Written by : Sumeya Abesha - RU0020/13
+//.          : Sofia Alemu - RU3049/13
